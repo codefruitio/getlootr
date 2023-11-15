@@ -5,6 +5,14 @@ include_in_header: true
 ---
 
 ### `Latest`
+# **Version 1.2**
+#### What's New
+- Added lifetime purchase option
+
+#### Bug Fixes
+- Solved bug with views not updating when setting Upgrade active status
+- Updated Privacy Policy URL
+
 # **Version 1.1**
 
 #### What's New
