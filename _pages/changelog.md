@@ -5,6 +5,14 @@ include_in_header: true
 ---
 
 ### `Latest`
+# **Version 1.3**
+#### What's New
+- You can now Search by ITEM so you can simply find which Upgrades require a specific Item to complete
+- Added feedback links to settings page
+
+#### Bug Fixes
+- Made adjustments to font design
+
 # **Version 1.2**
 #### What's New
 - Added lifetime purchase option
