@@ -257,7 +257,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  i18n (~> 1.14.1)
 
 BUNDLED WITH
    2.4.22
