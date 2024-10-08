@@ -5,6 +5,17 @@ include_in_header: true
 ---
 
 ### `Latest`
+# **Version 1.4**
+#### What's New
+- Improved restore from iCloud on reinstall
+- Updated App Icon for iOS 18
+- Adopted new iPadOS 18 Tab Bar
+- Moved Settings to Tab Bar
+- iPad version now supported on Mac
+
+#### Bug Fixes
+- Fixed bug with Data Reset on iOS 18
+
 # **Version 1.3**
 #### What's New
 - You can now Search by ITEM so you can simply find which Upgrades require a specific Item to complete
