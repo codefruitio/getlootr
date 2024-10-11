@@ -4,8 +4,20 @@ title: What's New
 include_in_header: true
 ---
 
+### `Coming Soon`
+# **1.5**
+#### What's New
+- Passive Upgrade data now pulls from GitHub instead of locally
+- Added splash screen at launch to check for content updates
+- Improved widget sync reliability
+- Added "Danger Zone" page for performing data resets
+- Lots of small UX tweaks
+- Added links for various community resources
+- Updated Privacy Policy URL
+
+
 ### `Latest`
-# **Version 1.4**
+# **1.4**
 #### What's New
 - Improved restore from iCloud on reinstall
 - Updated App Icon for iOS 18
@@ -16,23 +28,21 @@ include_in_header: true
 #### Bug Fixes
 - Fixed bug with Data Reset on iOS 18
 
-# **Version 1.3**
+# **1.3**
 #### What's New
 - You can now Search by ITEM so you can simply find which Upgrades require a specific Item to complete
 - Added feedback links to settings page
-
-#### Bug Fixes
 - Made adjustments to font design
 
-# **Version 1.2**
+# **1.2**
 #### What's New
 - Added lifetime purchase option
+- Updated Privacy Policy URL
 
 #### Bug Fixes
 - Solved bug with views not updating when setting Upgrade active status
-- Updated Privacy Policy URL
 
-# **Version 1.1**
+# **1.1**
 
 #### What's New
 - Plus and Minus buttons can now be held down to continuously adjust item counts
@@ -47,6 +57,6 @@ include_in_header: true
 <br>
 
 ### `Initial Release`
-# **Version 1.0**
+# **1.0**
 
 <br>
