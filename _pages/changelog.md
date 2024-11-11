@@ -4,7 +4,7 @@ title: What's New
 include_in_header: true
 ---
 
-### `Coming Soon`
+### `Latest`
 # **1.5**
 #### What's New
 - Passive Upgrade data now pulls from GitHub instead of locally
@@ -15,8 +15,6 @@ include_in_header: true
 - Added links for various community resources
 - Updated Privacy Policy URL
 
-
-### `Latest`
 # **1.4**
 #### What's New
 - Improved restore from iCloud on reinstall
